@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Clean Jekyll theme"
-date:   2015-09-26 18:51:59
+date:   2015-09-27 18:51:59
 categories: jekyll update
 ---
 ##Subheading
