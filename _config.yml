@@ -12,4 +12,4 @@ github_username:  jekyll
 markdown: kramdown
 
 # favicon
-favicon: favicon.png
+favicon: ./favicon.png
