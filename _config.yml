@@ -13,3 +13,5 @@ markdown: kramdown
 
 # favicon
 favicon: ./favicon.png
+
+mathjax: true
