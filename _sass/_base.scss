@@ -16,6 +16,7 @@ html, body{
  * Basic styling
  */
 body {
+    text-align: center;
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
@@ -141,6 +142,7 @@ pre {
 }
 
 code {
+    text-align: center；
     background: #fafafd;
     padding: 0.063em;
     border: 0.063em solid #dedede;
