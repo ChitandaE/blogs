@@ -2,7 +2,7 @@
 title: Blog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  上神与我同在
+  上神与我同在             
   blog已迁移至https://chtandae.github.io/blogs/
   欢迎访问
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
